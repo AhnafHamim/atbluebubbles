@@ -1,22 +1,7 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ⁉️ FAQ
 
-{% hint style="info" %}
-**If you have any more questions, please feel free to ask!**
-{% endhint %}
+> [!NOTE]
+> **If you have any more questions, please feel free to ask!**
 
 <details>
 
@@ -58,7 +43,7 @@ It all depends on what carrier you're using and what your SIM preference would b
 
 <summary>Does my phone need to stay on 24/7?</summary>
 
-I'm still testing this, but as of now, it doesn't seem necessary, but I personally think it's still recommended.&#x20;
+I'm still testing this, but as of now, it doesn't seem necessary, but I personally think it's still recommended.
 
 When I first did the method, I kept mine on 24/7 because I always had no luck after turning off my iPhone, my number would always deregister from iMessage, but it never did that with this method **(\~3 months in, even with the iPhone off).**
 

@@ -1,29 +1,13 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📶 Physical SIM #5
 
-{% hint style="info" %}
-This is method has been reported to work for Verizon
-{% endhint %}
+> [!NOTE]
+> This is method has been reported to work for Verizon
 
-{% hint style="warning" %}
-This method is _sort of_ the same as the other methods posted, but has a few changes.
-
-* It's recommended to have an old Verizon SIM that was previously connected to your phone number
-* Verizon will send a notification that the SIM card has been swapped to a new device, please accept it.
-{% endhint %}
+> [!WARNING]
+> This method is _sort of_ the same as the other methods posted, but has a few changes.
+>
+> * It's recommended to have an old Verizon SIM that was previously connected to your phone number
+> * Verizon will send a notification that the SIM card has been swapped to a new device, please accept it.
 
 ## Steps:
 
