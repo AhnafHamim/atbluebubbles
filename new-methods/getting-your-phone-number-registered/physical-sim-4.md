@@ -1,26 +1,10 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📶 Physical SIM #4
 
-{% hint style="info" %}
-This is method has been reported to work for Xfinity and Verizon, but it may work for other carriers as well.
-{% endhint %}
+> [!NOTE]
+> This is method has been reported to work for Xfinity and Verizon, but it may work for other carriers as well.
 
-{% hint style="warning" %}
-This method is _sort of_ different from the other methods posted, but it requires you to activate a new SIM card in your Android&#x20;
-{% endhint %}
+> [!WARNING]
+> This method is _sort of_ different from the other methods posted, but it requires you to activate a new SIM card in your Android
 
 ## Steps:
 

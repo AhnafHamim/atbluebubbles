@@ -1,26 +1,10 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📶 Physical SIM #1
 
-{% hint style="info" %}
-This is the main method. It _**should**_ work for most carriers; T-Mobile, Boost, Google Fi, etc.
-{% endhint %}
+> [!NOTE]
+> This is the main method. It _**should**_ work for most carriers; T-Mobile, Boost, Google Fi, etc.
 
-{% hint style="danger" %}
-This _**DOES NOT**_ work with Verizon, AT\&T or Redpocket as users have reported.
-{% endhint %}
+> [!CAUTION]
+> This _**DOES NOT**_ work with Verizon, AT\&T or Redpocket as users have reported.
 
 ## Steps:
 

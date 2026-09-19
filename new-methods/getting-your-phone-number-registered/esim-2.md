@@ -1,26 +1,10 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📲 eSIM #2
 
-{% hint style="info" %}
-This method is useful if you want an _**eSIM only**_ option, or if you have an _**eSIM only**_ iPhone!
-{% endhint %}
+> [!NOTE]
+> This method is useful if you want an _**eSIM only**_ option, or if you have an _**eSIM only**_ iPhone!
 
-{% hint style="danger" %}
-This method is still _**NEW and EXPERIMENTAL**_. There is no guarantee that this will work for you.
-{% endhint %}
+> [!CAUTION]
+> This method is still _**NEW and EXPERIMENTAL**_. There is no guarantee that this will work for you.
 
 ## Steps:
 

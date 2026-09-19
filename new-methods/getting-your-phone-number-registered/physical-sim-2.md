@@ -1,22 +1,7 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📶 Physical SIM #2
 
-{% hint style="info" %}
-This is the second most reliable method. It _**should**_ work for most carriers; T-Mobile, Boost, Google Fi, AT\&T, etc.
-{% endhint %}
+> [!NOTE]
+> This is the second most reliable method. It _**should**_ work for most carriers; T-Mobile, Boost, Google Fi, AT\&T, etc.
 
 ## Steps:
 

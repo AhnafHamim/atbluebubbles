@@ -1,58 +1,40 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # 💭 Beepserv (Jailbroken)
 
-{% hint style="danger" %}
-Beepserv is no longer recommended as it tended to only work once and otherwise be unreliable.  Please use relayserver or ValidationRelay even if using Beeper Mini.\
-\
-This article remains for historic purposes.
-{% endhint %}
+> [!CAUTION]
+> Beepserv is no longer recommended as it tended to only work once and otherwise be unreliable.  Please use relayserver or ValidationRelay even if using Beeper Mini.\
+> \
+> This article remains for historic purposes.
 
 ***
 
-{% hint style="warning" %}
-While using the Beepserv tweak on a jailbroken iPhone, it is recommended that you use a spare Apple ID.
+> [!WARNING]
+> While using the Beepserv tweak on a jailbroken iPhone, it is recommended that you use a spare Apple ID.
+>
+> * Apple has been cracking down on _\[their own]_ users for using Beeper/Beeper Mini. It even caused Beeper to remove iMessage **completely** from their platform.
 
-* Apple has been cracking down on _\[their own]_ users for using Beeper/Beeper Mini. It even caused Beeper to remove iMessage **completely** from their platform.
-{% endhint %}
-
-{% hint style="danger" %}
-Using Beeper is still a tricky situation, please continue with caution.
-
-* Use a spare/throw-away Apple ID as it could get you, or your device, banned from using iMessage on any device.
-
-_This guide is also very **experimental** and hasn't been tested, but it's a great theory that **may or may** not work. So please continue with caution._
-{% endhint %}
+> [!CAUTION]
+> Using Beeper is still a tricky situation, please continue with caution.
+>
+> * Use a spare/throw-away Apple ID as it could get you, or your device, banned from using iMessage on any device.
+>
+> _This guide is also very **experimental** and hasn't been tested, but it's a great theory that **may or may** not work. So please continue with caution._
 
 ***
 
-{% hint style="warning" %}
-**Requirements for Beepserv:**
-
-* iPhone 6S and above _**(Needs to be jailbroken)**_
-* Android Device
-* Beepserv-rewrite Tweak
-  * [Download the tweak here](https://github.com/thatmarcel/beepserv-rewrite)
-* Beeper Mini _**(for iMessage)**_
-  * [Download the APK here (Beeper)](https://mini.beeper.com/Beeper_Mini_v1.2.58.apk)
-    * _**This file download link may go down at anytime since the Beeper Mini page has been deleted from their website**_
-  * [Download the APK here (Web Archive)](https://web.archive.org/web/20240329133435/https://mini.beeper.com/Beeper_Mini_v1.2.58.apk)
-  * [Download the APK here (Media Fire)](https://www.mediafire.com/file/u1r73jp6z9vjshx/Beeper_Mini_v1.2.58.apk/file)
-* A spare/throw-away Apple ID
-  * [Make a new Apple ID here](https://appleid.apple.com/account)
-{% endhint %}
+> [!WARNING]
+> **Requirements for Beepserv:**
+>
+> * iPhone 6S and above _**(Needs to be jailbroken)**_
+> * Android Device
+> * Beepserv-rewrite Tweak
+>   * [Download the tweak here](https://github.com/thatmarcel/beepserv-rewrite)
+> * Beeper Mini _**(for iMessage)**_
+>   * [Download the APK here (Beeper)](https://mini.beeper.com/Beeper_Mini_v1.2.58.apk)
+>     * _**This file download link may go down at anytime since the Beeper Mini page has been deleted from their website**_
+>   * [Download the APK here (Web Archive)](https://web.archive.org/web/20240329133435/https://mini.beeper.com/Beeper_Mini_v1.2.58.apk)
+>   * [Download the APK here (Media Fire)](https://www.mediafire.com/file/u1r73jp6z9vjshx/Beeper_Mini_v1.2.58.apk/file)
+> * A spare/throw-away Apple ID
+>   * [Make a new Apple ID here](https://appleid.apple.com/account)
 
 ## Getting jailbroken:
 
@@ -77,7 +59,7 @@ For full guides on specific iPhones and iOS jailbreaks, please check [CFW - iOS 
 5. Once you have installed Beepserv-Rewrite, you will want to do a **Userspace Reboot**
    * This action may be different between jailbreaks.
 6. If everything is done correctly, you should see the **Registration Code** in your Messages settings on your iPhone
-7. Once you have your **Registration Code**, download the Beeper Mini _**(for iMessage)**_ app on your Android device _(The link is posted above with the requirements)_&#x20;
+7. Once you have your **Registration Code**, download the Beeper Mini _**(for iMessage)**_ app on your Android device _(The link is posted above with the requirements)_
 8. Open Beeper Mini and it should prompt you to enter your **Registration Code**
 9. Once you entered your Registration Code, it will proceed to ask you to enter your Apple ID info
    * Please use your spare/throw-away Apple ID for safety of your Apple account

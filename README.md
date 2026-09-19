@@ -1,52 +1,32 @@
----
-description: >-
-  Find the best SIM/eSIM swapping methods! Yes! There are eSIM swapping methods
-  as well 😉
----
-
 # 💬 All These BlueBubbles
 
-{% hint style="info" %}
-**These methods are still new and need more testing, but they have been reported to be the best and most reliable methods for SIM/eSIM swapping!**
-{% endhint %}
+> [!NOTE]
+> **These methods are still new and need more testing, but they have been reported to be the best and most reliable methods for SIM/eSIM swapping!**
 
-{% hint style="warning" %}
-**Requirements for these methods:**
-
-* Mac (or a VM/docker-osx)
-* iPhone
-* BlueBubbles/AirMessage
-* An active and inactive SIM cards/eSIM capabilities
-  * **Same carrier or MVNOS on the same network is recommended until there's been more testing.**
-{% endhint %}
+> [!WARNING]
+> **Requirements for these methods:**
+>
+> * Mac (or a VM/docker-osx)
+> * iPhone
+> * BlueBubbles/AirMessage
+> * An active and inactive SIM cards/eSIM capabilities
+>   * **Same carrier or MVNOS on the same network is recommended until there's been more testing.**
 
 ## Quick links
 
-{% content-ref url="overview/carriers-supported.md" %}
-[carriers-supported.md](overview/carriers-supported.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/troubleshooting.md" %}
-[troubleshooting.md](overview/troubleshooting.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/faq.md" %}
-[faq.md](overview/faq.md)
-{% endcontent-ref %}
+- [carriers-supported.md](overview/carriers-supported.md)
+- [troubleshooting.md](overview/troubleshooting.md)
+- [faq.md](overview/faq.md)
 
 ## Get Started
 
-{% content-ref url="new-methods/getting-your-phone-number-registered/" %}
-[getting-your-phone-number-registered](new-methods/getting-your-phone-number-registered/)
-{% endcontent-ref %}
-
-{% content-ref url="new-methods/beepserv-no-jailbreak.md" %}
-[beepserv-no-jailbreak.md](new-methods/beepserv-no-jailbreak.md)
-{% endcontent-ref %}
+- [getting-your-phone-number-registered](new-methods/getting-your-phone-number-registered/)
+- [beepserv-no-jailbreak.md](new-methods/beepserv-no-jailbreak.md)
 
 ## Reactions 🙌
 
-Check out the reactions to these methods:
+<details>
+<summary>Show community reactions</summary>
 
 > This needs to be pinned
 >
@@ -80,7 +60,7 @@ Check out the reactions to these methods:
 >
 > — From [ShadowKiller941](https://www.reddit.com/user/ShadowKiller941/)
 
-> Works perfectly!&#x20;
+> Works perfectly!
 >
 > I got mine working back in December by activating an eSim on old iPhone proceeding to sign in and set up iMessage. Then turned on airplane mode and chatted with customer service to activate physical sim in my Android. eSim has been going strong for over a month now iPhone needs charging about once a week.
 >
@@ -95,6 +75,8 @@ Check out the reactions to these methods:
 > Method works perfectly on T-Mobile! Used my actual sim and an expired one I bought on eBay.
 >
 > — From [warscout11](https://www.reddit.com/user/warscout11/)
+
+</details>
 
 ### [If all fails, please try the original AirMessage SIM swap methods!](https://airmessage.org/help/guide/phone-number)
 

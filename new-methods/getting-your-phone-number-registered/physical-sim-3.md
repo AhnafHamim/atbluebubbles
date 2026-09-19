@@ -1,30 +1,14 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📶 Physical SIM #3
 
-{% hint style="info" %}
-This is the modified version of [AirMessage's Method #1](https://airmessage.org/help/guide/phone-number#keeping-inactive-sim), reported to work for AT\&T and Cricket users, may or may not work for other carriers.
+> [!NOTE]
+> This is the modified version of [AirMessage's Method #1](https://airmessage.org/help/guide/phone-number#keeping-inactive-sim), reported to work for AT\&T and Cricket users, may or may not work for other carriers.
+>
+> * [Here's the original Reddit post for the modified Method #1](https://www.reddit.com/r/AirMessage/comments/fx9qku/working\_modified\_method\_1/?utm\_source=share\&utm\_medium=web3x\&utm\_name=web3xcss\&utm\_term=1\&utm\_content=share\_button)
 
-* [Here's the original Reddit post for the modified Method #1](https://www.reddit.com/r/AirMessage/comments/fx9qku/working\_modified\_method\_1/?utm\_source=share\&utm\_medium=web3x\&utm\_name=web3xcss\&utm\_term=1\&utm\_content=share\_button)
-{% endhint %}
-
-{% hint style="warning" %}
-Not sure if it works for other carriers such as Verizon, Redpocket or XFinity.
-
-Please let me know if it does!
-{% endhint %}
+> [!WARNING]
+> Not sure if it works for other carriers such as Verizon, Redpocket or XFinity.
+>
+> Please let me know if it does!
 
 ## Steps:
 

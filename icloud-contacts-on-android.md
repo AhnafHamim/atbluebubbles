@@ -1,36 +1,21 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # ☁️ iCloud Contacts on Android
 
 Ever want your iCloud Contacts on Android?  Well, it's possible!
 
-{% hint style="warning" %}
-Requirements:
-
-* DAVx⁵
-  * Available via Google Play for $6.49 - [Link](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)
-  * Available via F-Droid for free - [Link](https://f-droid.org/packages/at.bitfire.davdroid/)
-* App-Specific Password generated at [account.apple.com](https://account.apple.com)
-{% endhint %}
+> [!WARNING]
+> Requirements:
+>
+> * DAVx⁵
+>   * Available via Google Play for $6.49 - [Link](https://play.google.com/store/apps/details?id=at.bitfire.davdroid)
+>   * Available via F-Droid for free - [Link](https://f-droid.org/packages/at.bitfire.davdroid/)
+> * App-Specific Password generated at [account.apple.com](https://account.apple.com)
 
 1. Open DAVx⁵
 2. Press next (the right arrow in the bottom right)
 3. Select "I don't need tasks support." and press next
 4. Select "All of the below"
 5. Press allow on the popups
-6. Press next&#x20;
+6. Press next
 7. Turn on the switch next to "Regular sync intervals"
 8. Press allow on the popup
 9. Press next
@@ -50,18 +35,16 @@ Requirements:
 19. Press "Synchronize now"
 20. You're done!
 
-{% hint style="info" %}
-If you want to prevent modification to your iCloud Contacts from this device you can change the account to read-only
+> [!NOTE]
+> If you want to prevent modification to your iCloud Contacts from this device you can change the account to read-only
+>
+> 1. Open DAVx⁵
+> 2. Pick the account
+> 3. Click where it says "card"
+> 4. Turn on the switch next to "Read-only"
 
-1. Open DAVx⁵
-2. Pick the account
-3. Click where it says "card"
-4. Turn on the switch next to "Read-only"
-{% endhint %}
-
-{% hint style="info" %}
-For calendar sync it's the same process except for 2 differences
-
-1. Step 14a will be https://caldav.icloud.com/
-2. Step 18 will show an entry for multiple calendars found on your Apple ID, enable the ones you are interested in seeing on your Android device
-{% endhint %}
+> [!NOTE]
+> For calendar sync it's the same process except for 2 differences
+>
+> 1. Step 14a will be https://caldav.icloud.com/
+> 2. Step 18 will show an entry for multiple calendars found on your Apple ID, enable the ones you are interested in seeing on your Android device

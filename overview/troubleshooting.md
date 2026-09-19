@@ -1,12 +1,7 @@
----
-description: If you are having issues, try these troubleshooting options to help you out!
----
-
 # 🆘 Troubleshooting
 
-{% hint style="info" %}
-There is no guarantee that these troubleshooting options will help, but they did helped most users.
-{% endhint %}
+> [!NOTE]
+> There is no guarantee that these troubleshooting options will help, but they did helped most users.
 
 <details>
 
@@ -35,9 +30,8 @@ Afterwards, try the methods again
 
 </details>
 
-{% hint style="danger" %}
-**WARNING:** This troubleshoot option is for the _**last resort**_! This will ease the _**ENTIRE**_ iPhone! Please backup your device before proceeding!
-{% endhint %}
+> [!CAUTION]
+> **WARNING:** This troubleshoot option is for the _**last resort**_! This will ease the _**ENTIRE**_ iPhone! Please backup your device before proceeding!
 
 <details>
 

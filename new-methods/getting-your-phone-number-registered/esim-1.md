@@ -1,26 +1,10 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 📲 eSIM #1
 
-{% hint style="info" %}
-This is the main eSIM method. It's the same as the [Physical SIM #1](physical-sim-1.md), but with a small change!
-{% endhint %}
+> [!NOTE]
+> This is the main eSIM method. It's the same as the [Physical SIM #1](physical-sim-1.md), but with a small change!
 
-{% hint style="danger" %}
-This method is still _**NEW and EXPERIMENTAL**_. There is no guarantee that this will work for you.
-{% endhint %}
+> [!CAUTION]
+> This method is still _**NEW and EXPERIMENTAL**_. There is no guarantee that this will work for you.
 
 ## Steps:
 
